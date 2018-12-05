@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+    <name>ftemplate</name>
+    <creationDate>2018-12-03</creationDate>
+    <author>CCasasola</author>
+    <authorEmail>cecm2893@gmail.com</authorEmail>
+    <copyright>CCasasola 2018</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.0</version>
+	<description>My New Template</description>
+    <files>
+        <filename>index.php</filename>    
+        <filename>templateDetails.xml</filename>
+        <folder>images</folder>
+		<folder>css</folder>
+    </files>
+    <positions>
+        <position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+    </positions>
+</extension>
